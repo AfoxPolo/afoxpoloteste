@@ -1,1 +1,1 @@
-window.alert("ola");
+window.alert("Sej@ bem vind@!");
